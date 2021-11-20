@@ -1,14 +1,8 @@
 
-
-
-
-
 /*
     Typically use a for loop, when you KNOW how many times a particular 
     set of statement(s) are going to be executed!!
 */
-
-
 
 /*
 
@@ -28,10 +22,12 @@ for(i=5; i>0; i--)  //header of for loop
 }
 console.log("\n\n");
 
+
 for(i=1; i<=5; i++)  
 {
     console.log(`Baby, you sweet like honey!`); 
 }
+
 
 
 
